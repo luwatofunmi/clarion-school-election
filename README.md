@@ -1,2 +1,1 @@
-# clarion-school-election
-Clarion School
+# online-voting-system
